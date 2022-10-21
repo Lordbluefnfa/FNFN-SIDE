@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Pico_FNF_assetss.png" width="1800" height="2202">
+  <SubTexture name="pico Up note0021" x="0" y="0"  width="453" height="570" frameX="-180" frameY="-70" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0011" x="453" y="0"  width="480" height="558" frameX="-122" frameY="-82" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0009" x="0" y="570"  width="479" height="556" frameX="-123" frameY="-84" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico NOTE LEFT0019" x="479" y="558"  width="398" height="553" frameX="-111" frameY="-87" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico NOTE LEFT0020" x="933" y="0"  width="388" height="553" frameX="-125" frameY="-87" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0010" x="0" y="1126"  width="480" height="552" frameX="-122" frameY="-88" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0007" x="480" y="1111"  width="480" height="547" frameX="-122" frameY="-93" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0008" x="1321" y="0"  width="479" height="547" frameX="-123" frameY="-93" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Note Right0018" x="877" y="558"  width="458" height="544" frameX="-187" frameY="-96" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Note Right0017" x="960" y="1102"  width="466" height="539" frameX="-187" frameY="-101" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0005" x="1335" y="547"  width="460" height="528" frameX="-122" frameY="-113" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0001" x="0" y="1678"  width="441" height="524" frameX="-131" frameY="-117" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Down Note0023" x="441" y="1678"  width="502" height="515" frameX="-136" frameY="-125" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Down Note0022" x="943" y="1658"  width="514" height="499" frameX="-137" frameY="-141" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0002" x="0" y="1678"  width="441" height="524" frameX="-131" frameY="-117" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0003" x="0" y="1678"  width="441" height="524" frameX="-131" frameY="-117" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0004" x="0" y="1678"  width="441" height="524" frameX="-131" frameY="-117" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0006" x="1335" y="547"  width="460" height="528" frameX="-122" frameY="-113" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0012" x="453" y="0"  width="480" height="558" frameX="-122" frameY="-82" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0013" x="453" y="0"  width="480" height="558" frameX="-122" frameY="-82" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0014" x="453" y="0"  width="480" height="558" frameX="-122" frameY="-82" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0015" x="453" y="0"  width="480" height="558" frameX="-122" frameY="-82" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Pico Idle Dance0016" x="453" y="0"  width="480" height="558" frameX="-122" frameY="-82" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>
