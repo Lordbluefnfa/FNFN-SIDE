@@ -1,0 +1,50 @@
+{
+  "storyName": "tankman",
+  "difficulties": "hard",
+  "hideFreeplay": false,
+  "weekBackground": "week3",
+  "weekBefore": "week6",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "Pico",
+      "pico",
+      [
+        246,
+        182,
+        4
+      ]
+    ],
+    [
+      "Philly",
+      "pico",
+      [
+        246,
+        182,
+        4
+      ]
+    ],
+    [
+      "Blammed",
+      "pico",
+      [
+        246,
+        182,
+        4
+      ]
+    ]
+  ],
+  "hiddenUntilUnlocked": false,
+  "weekName": "Week 7"
+}
