@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="noteCombo.png">
+<SubTexture name="appear0000" x="0" y="0" width="491" height="360" frameX="-11" frameY="-13" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0001" x="491" y="0" width="470" height="336" frameX="-22" frameY="-24" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0002" x="0" y="360" width="422" height="285" frameX="-47" frameY="-48" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0003" x="0" y="360" width="422" height="285" frameX="-47" frameY="-48" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0004" x="0" y="360" width="422" height="285" frameX="-47" frameY="-48" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0005" x="0" y="360" width="422" height="285" frameX="-47" frameY="-48" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0006" x="0" y="360" width="422" height="285" frameX="-47" frameY="-48" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0007" x="0" y="360" width="422" height="285" frameX="-47" frameY="-48" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0008" x="0" y="360" width="422" height="285" frameX="-47" frameY="-48" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0009" x="0" y="645" width="384" height="213" frameX="-68" frameY="-87" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0010" x="422" y="360" width="425" height="238" frameX="-87" frameY="-56" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0011" x="491" y="336" width="2" height="2" frameX="-82" frameY="-209" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0012" x="491" y="336" width="2" height="2" frameX="-82" frameY="-209" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0013" x="491" y="336" width="2" height="2" frameX="-82" frameY="-209" frameWidth="521" frameHeight="384" />
+<SubTexture name="appear0014" x="491" y="336" width="2" height="2" frameX="-82" frameY="-209" frameWidth="521" frameHeight="384" />
+<SubTexture name="disappear0000" x="491" y="336" width="2" height="2" frameX="0" frameY="0" frameWidth="521" frameHeight="384" />
+</TextureAtlas>
